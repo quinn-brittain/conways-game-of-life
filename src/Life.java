@@ -24,7 +24,7 @@ import java.io.*;
  * Conway's Game of life
  *
  * In Memory of John Conway (Dec 1937 - Apr 2020)
- * He help us see the beauty of math in everything.
+ * He helped us see the beauty of math in everything.
  */
 
 public class Life extends Application {

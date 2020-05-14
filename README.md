@@ -2,7 +2,7 @@
 
 ### In Memory of John Conway (Dec 1937 - Apr 2020)
 
-*He help us see the beauty of math in everything.*
+*He helped us see the beauty of math in everything.*
 
 ## Running
 To run use java in a terminal on the jar
