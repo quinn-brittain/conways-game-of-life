@@ -1,8 +1,11 @@
 # Conway's Game of Life
 
 ### In Memory of John Conway (Dec 1937 - Apr 2020)
-
 *He helped us see the beauty of math in everything.*
+
+### In Memory Prof. Jeffery Ward (Feb 1961 - Jun 2021)
+He was the inspiration me to originally create this program, sparking a passion for programing and game development.
+The best professor I have ever had and a great mentor who will be even more greatly missed.
 
 ## Running
 To run use java in a terminal on the jar
